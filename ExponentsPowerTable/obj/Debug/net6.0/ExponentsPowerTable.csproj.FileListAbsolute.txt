@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\net6.0\ExponentsPowerTable.exe
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\net6.0\ExponentsPowerTable.deps.json
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\net6.0\ExponentsPowerTable.runtimeconfig.json
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\net6.0\ExponentsPowerTable.dll
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\bin\Debug\net6.0\ExponentsPowerTable.pdb
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.dll
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\refint\ExponentsPowerTable.dll
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.pdb
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ExponentsPowerTable.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\ExponentsPowerTable\ExponentsPowerTable\obj\Debug\net6.0\ref\ExponentsPowerTable.dll
